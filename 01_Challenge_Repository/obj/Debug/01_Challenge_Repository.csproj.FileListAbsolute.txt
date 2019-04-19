@@ -1,0 +1,6 @@
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\01_Challenge_Repository\bin\Debug\01_Challenge_Repository.dll
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\01_Challenge_Repository\bin\Debug\01_Challenge_Repository.pdb
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\01_Challenge_Repository\obj\Debug\01_Challenge_Repository.csprojAssemblyReference.cache
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\01_Challenge_Repository\obj\Debug\01_Challenge_Repository.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\01_Challenge_Repository\obj\Debug\01_Challenge_Repository.dll
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\01_Challenge_Repository\obj\Debug\01_Challenge_Repository.pdb

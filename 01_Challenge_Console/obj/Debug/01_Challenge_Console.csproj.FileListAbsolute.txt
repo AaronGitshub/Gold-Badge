@@ -1,0 +1,10 @@
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\01_Challenge_Console\bin\Debug\01_Challenge_Console.exe.config
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\01_Challenge_Console\bin\Debug\01_Challenge_Console.exe
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\01_Challenge_Console\bin\Debug\01_Challenge_Console.pdb
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\01_Challenge_Console\bin\Debug\01_Challenge_Repository.dll
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\01_Challenge_Console\bin\Debug\01_Challenge_Repository.pdb
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\01_Challenge_Console\obj\Debug\01_Challenge_Console.csprojAssemblyReference.cache
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\01_Challenge_Console\obj\Debug\01_Challenge_Console.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\01_Challenge_Console\obj\Debug\01_Challenge_Console.csproj.CopyComplete
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\01_Challenge_Console\obj\Debug\01_Challenge_Console.exe
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\01_Challenge_Console\obj\Debug\01_Challenge_Console.pdb
