@@ -1,0 +1,6 @@
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\05_Greet_Repository\bin\Debug\05_Greet_Repository.dll
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\05_Greet_Repository\bin\Debug\05_Greet_Repository.pdb
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\05_Greet_Repository\obj\Debug\05_Greet_Repository.csprojAssemblyReference.cache
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\05_Greet_Repository\obj\Debug\05_Greet_Repository.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\05_Greet_Repository\obj\Debug\05_Greet_Repository.dll
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\05_Greet_Repository\obj\Debug\05_Greet_Repository.pdb

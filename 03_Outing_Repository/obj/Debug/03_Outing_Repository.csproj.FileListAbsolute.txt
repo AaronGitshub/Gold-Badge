@@ -1,0 +1,6 @@
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\03_Outing_Repository\bin\Debug\03_Outing_Repository.dll
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\03_Outing_Repository\bin\Debug\03_Outing_Repository.pdb
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\03_Outing_Repository\obj\Debug\03_Outing_Repository.csprojAssemblyReference.cache
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\03_Outing_Repository\obj\Debug\03_Outing_Repository.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\03_Outing_Repository\obj\Debug\03_Outing_Repository.dll
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\03_Outing_Repository\obj\Debug\03_Outing_Repository.pdb

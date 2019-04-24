@@ -10,6 +10,8 @@ namespace _02_Claims_Console
     {
         static void Main(string[] args)
         {
+            ClaimsUI program = new ClaimsUI();
+            program.Run();
         }
     }
 }

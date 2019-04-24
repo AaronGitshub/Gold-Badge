@@ -1,0 +1,10 @@
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\05_Greet_Console\bin\Debug\05_Greet_Console.exe.config
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\05_Greet_Console\bin\Debug\05_Greet_Console.exe
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\05_Greet_Console\bin\Debug\05_Greet_Console.pdb
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\05_Greet_Console\bin\Debug\05_Greet_Repository.dll
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\05_Greet_Console\bin\Debug\05_Greet_Repository.pdb
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\05_Greet_Console\obj\Debug\05_Greet_Console.csprojAssemblyReference.cache
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\05_Greet_Console\obj\Debug\05_Greet_Console.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\05_Greet_Console\obj\Debug\05_Greet_Console.csproj.CopyComplete
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\05_Greet_Console\obj\Debug\05_Greet_Console.exe
+C:\DotNetProjects\GoldBadge\GoldBadgeChallenges\05_Greet_Console\obj\Debug\05_Greet_Console.pdb
