@@ -34,7 +34,13 @@ namespace _05_Greet_Tests
         }
 
         ///Test Remove 
-        
-
+        [TestMethod]
+        public void DeleteTest()
+        {
+            //add 3
+            //remove 1
+            //test for 2
+            Assert.
+        }
     }
 }
