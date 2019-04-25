@@ -197,9 +197,9 @@ namespace _05_Greet_Console
 
         private void SeedList()
         {
-            Customer content = new Customer(CustomerType.Potential, 1, "Aaron", "Wood", "It's been a long time since we've heard from you, we want you back.");
-            Customer content1 = new Customer(CustomerType.Past, 2, "Aaron", "Wood", "It's been a long time since we've heard from you, we want you back.");
-            Customer content2 = new Customer(CustomerType.Potential, 3, "Aaron", "Wood", "It's been a long time since we've heard from you, we want you back.");
+            Customer content = new Customer(CustomerType.Potential, 1, "Aaron", "Wood", "We currently have the lowest rates on Helicopter Insurance!");
+            Customer content1 = new Customer(CustomerType.Current, 2, "Brian", "Fisher", "Thank you for your work with us. We appreciate your loyalty. Here's a coupon.");
+            Customer content2 = new Customer(CustomerType.Past, 3, "Steve", "Fisher", "It's been a long time since we've heard from you, we want you back.");
 
             _customerRepo.AddToList(content);
             _customerRepo.AddToList(content1);
